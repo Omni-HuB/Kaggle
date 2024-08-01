@@ -1,0 +1,3 @@
+[submodule "kaggle_c2_Binary_Prediction_of_Poisonous_Mushrooms"]
+	path = kaggle_c2_Binary_Prediction_of_Poisonous_Mushrooms
+	url = https://github.com/Omni-HuB/kaggle_c2_Binary_Prediction_of_Poisonous_Mushrooms.git
